@@ -43,8 +43,8 @@
 * [OpenNRE](https://github.com/thunlp/OpenNRE)实体提取 (NRE)
 * [Kashgari](https://github.com/BrikerMan/Kashgari)用于文本标签和文本分(NER)
 * 语料库数据集
- * [中国古诗词](https://github.com/chinese-poetry/chinese-poetry) (中文语料库 数据集)
- * [中文数据集合](https://github.com/SophonPlus/ChineseNlpCorpus) (中文语料库 数据集)
+  * [中国古诗词](https://github.com/chinese-poetry/chinese-poetry) (中文语料库 数据集)
+  * [中文数据集合](https://github.com/SophonPlus/ChineseNlpCorpus) (中文语料库 数据集)
 
 [返回目录](#目录)
 
