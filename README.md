@@ -6,6 +6,7 @@
 * [程序设计](#程序设计)
 * [图像识别](#图像识别)
 * [自然语言处理](#自然语言处理)
+* [预训练模型/迁移学习](#预训练模型/迁移学习)
 * [教程实例](#教程实例)
 * [实用工具](#实用工具)
 * [其他](#其他)     
@@ -53,6 +54,12 @@
 
 [返回目录](#目录)
 
+## 预训练模型/迁移学习
+* [PYTORCH](https://tfhub.dev/s?module-type=text-embedding) PYTORCH(Hub 迁移学习)
+* [TensorFlow](https://tfhub.dev/) TensorFlow(Hub 迁移学习)
+* [transformers](https://github.com/huggingface/transformers)  TensorFlow 2.0 and PyTorch(Hub 迁移学习)
+* [BERT-train2deploy](https://github.com/xmxoxo/BERT-train2deploy)  BERT模型从训练到部署(Bert 迁移学习)
+
 ## 教程实例
 * [人工智能学习路线图](https://github.com/tangyudi/Ai-Learn)200个实战案例与项目(教程 实例)
 * [TensorFlow2.0教程实例](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)200个实战案例与项目(教程 TensorFlow)
@@ -66,11 +73,7 @@
 
 [返回目录](#目录)
 
-## 预训练模型/迁移学习
-* [PYTORCH](https://tfhub.dev/s?module-type=text-embedding) PYTORCH(Hub 迁移学习)
-* [TensorFlow](https://tfhub.dev/) TensorFlow(Hub 迁移学习)
-* [transformers](https://github.com/huggingface/transformers)  TensorFlow 2.0 and PyTorch(Hub 迁移学习)
-* [BERT-train2deploy](https://github.com/xmxoxo/BERT-train2deploy)  BERT模型从训练到部署(Bert 迁移学习)
+
 
 
 
@@ -80,4 +83,4 @@
 
 
 
-### 测试相关
+
