@@ -14,7 +14,7 @@
 
 ## 程序设计
  * java
- 	* [3Y](https://github.com/ZhongFuCheng3y/3y)(Java基础、JavaWeb基础)
+ 	* [java-base](https://github.com/ZhongFuCheng3y/3y)(Java基础、JavaWeb基础)
  	* [mall-learning](https://github.com/macrozheng/mall-learning)(开源商城)
 	 * [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo)(SpringBoot)
 	 * [SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs)(SpringBoot)
@@ -63,7 +63,7 @@
 
 ## 开箱即用/GoogleColab
 * [wesome-machine-learning-jupyter-notebooks-for-colab](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab) PYTORCH(colab 迁移学习)
-* [awesome-google-colab](hhttps://github.com/firmai/awesome-google-colab) PYTORCH(colab 迁移学习)
+* [awesome-google-colab](https://github.com/firmai/awesome-google-colab) PYTORCH(colab 迁移学习)
 
 ## 教程实例
 * [人工智能学习路线图](https://github.com/tangyudi/Ai-Learn)200个实战案例与项目(教程 实例)
