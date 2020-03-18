@@ -34,7 +34,9 @@
   * [Face-Anti-spoofing](https://github.com/zeusees/Zeusee-Face-Anti-spoofing) (人脸识别 活体检测)
   * [Android App](https://www.cnblogs.com/hifun/p/11558754.html)(人脸识别 活体检测)
 * 预训练模型
-  * [TFHub](https://tfhub.dev/s?module-type=image-augmentation,image-classification,image-feature-vector,image-generator,image-object-detection,image-others,image-style-transfer,image-rnn-agent)
+  * [TFHub](https://tfhub.dev/s?module-type=image-augmentation,image-classification,image-feature-vector,image-generator,image-object-detection,image-others,image-style-transfer,image-rnn-agent)(图像)
+  * [TFHub](https://tfhub.dev/s?module-type=video-classification,video-generator)(视频)
+  
 [返回目录](#目录)
 
 ## 自然语言处理
@@ -46,6 +48,8 @@
 * 语料库数据集
   * [中国古诗词](https://github.com/chinese-poetry/chinese-poetry) (中文语料库 数据集)
   * [中文数据集合](https://github.com/SophonPlus/ChineseNlpCorpus) (中文语料库 数据集)
+* 预训练模型
+  * [TFHub](https://tfhub.dev/s?module-type=text-embedding)(文本)
 
 [返回目录](#目录)
 
@@ -62,7 +66,12 @@
 
 [返回目录](#目录)
 
-## 其他
+## 预训练模型/迁移学习
+* [PYTORCH](https://tfhub.dev/s?module-type=text-embedding) PYTORCH(Hub 迁移学习)
+* [TensorFlow](https://tfhub.dev/) TensorFlow(Hub 迁移学习)
+* [transformers](https://github.com/huggingface/transformers)  TensorFlow 2.0 and PyTorch(Hub 迁移学习)
+* [BERT-train2deploy](https://github.com/xmxoxo/BERT-train2deploy)  BERT模型从训练到部署(Bert 迁移学习)
+
 
 
 [返回目录](#目录)
