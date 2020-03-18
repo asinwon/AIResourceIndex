@@ -55,7 +55,7 @@
 [返回目录](#目录)
 
 ## 预训练模型/迁移学习
-* [PYTORCH](https://tfhub.dev/s?module-type=text-embedding) PYTORCH(Hub 迁移学习)
+* [PyTorch](https://pytorch.org/hub/) PYTORCH(Hub 迁移学习)
 * [TensorFlow](https://tfhub.dev/) TensorFlow(Hub 迁移学习)
 * [transformers](https://github.com/huggingface/transformers)  TensorFlow 2.0 and PyTorch(Hub 迁移学习)
 * [BERT-train2deploy](https://github.com/xmxoxo/BERT-train2deploy)  BERT模型从训练到部署(Bert 迁移学习)
@@ -75,7 +75,7 @@
 
 
 
-
+## 论文列表
 
 [返回目录](#目录)
 
