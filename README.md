@@ -33,7 +33,8 @@
   * [face_recognition](https://github.com/ageitgey/face_recognition) (人脸识别 人脸检测)
   * [Face-Anti-spoofing](https://github.com/zeusees/Zeusee-Face-Anti-spoofing) (人脸识别 活体检测)
   * [Android App](https://www.cnblogs.com/hifun/p/11558754.html)(人脸识别 活体检测)
-
+* 预训练模型
+  * [TFHub](https://tfhub.dev/s?module-type=image-augmentation,image-classification,image-feature-vector,image-generator,image-object-detection,image-others,image-style-transfer,image-rnn-agent)
 [返回目录](#目录)
 
 ## 自然语言处理
