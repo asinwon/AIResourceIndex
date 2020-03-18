@@ -17,8 +17,10 @@
  * java
  	* [java-base](https://github.com/ZhongFuCheng3y/3y)(Java基础、JavaWeb基础)
  	* [mall-learning](https://github.com/macrozheng/mall-learning)(开源商城)
-	 * [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo)(SpringBoot)
-	 * [SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs)(SpringBoot)
+	 * [spring-boot-demo入门学习教程](https://github.com/xkcoding/spring-boot-demo)(SpringBoot)
+	 * [SpringBoot-Labs入门学习教程](https://github.com/YunaiV/SpringBoot-Labs)(SpringBoot)
+	 * [newbee-malls商城](https://github.com/newbee-ltd/newbee-mall)基于 Spring Boot 2.X的商城(SpringBoot)
+	 * [spring-boot-projects入门学习教程](https://github.com/ZHENFENG13/spring-boot-projects)(SpringBoot)
  * Go
  	* [crawlab](https://github.com/crawlab-team/crawlab)(爬虫、Go)
  	* [mall-learning](https://github.com/macrozheng/mall-learning)(开源商城)
