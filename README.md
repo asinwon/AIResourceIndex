@@ -7,7 +7,7 @@
 * [图像识别](#图像识别)
 * [自然语言处理](#自然语言处理)
 * [预训练模型/迁移学习](#预训练模型/迁移学习)
-* [开箱即用/Google Colab](#开箱即用/GoogleColab)
+* [开箱即用/GoogleColab](#开箱即用/GoogleColab)
 * [教程实例](#教程实例)
 * [实用工具](#实用工具)
 * [其他](#其他)     
@@ -61,7 +61,7 @@
 * [transformers](https://github.com/huggingface/transformers)  TensorFlow 2.0 and PyTorch(Hub 迁移学习)
 * [BERT-train2deploy](https://github.com/xmxoxo/BERT-train2deploy)  BERT模型从训练到部署(Bert 迁移学习)
 
-## 开箱即用/Google Colab
+## 开箱即用/GoogleColab
 * [wesome-machine-learning-jupyter-notebooks-for-colab](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab) PYTORCH(colab 迁移学习)
 * [awesome-google-colab](hhttps://github.com/firmai/awesome-google-colab) PYTORCH(colab 迁移学习)
 
