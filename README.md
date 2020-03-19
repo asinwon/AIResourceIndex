@@ -30,7 +30,8 @@
 ## 图像识别
 
 * [MediaPipe](https://github.com/google/mediapipe)Google开源的多媒体机器学习模型应用框架。(Google 手部跟踪 人脸检测 3D)
-* [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) 超轻量级中文ocr (ocr)
+* OCR
+  * [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) 超轻量级中文ocr (ocr) http://121.199.63.172/ocr
 * 对抗网络GAN
   * [人脸属性编辑器](https://github.com/a312863063/seeprettyface-face_editor)基于StyleGAN的人脸属性编辑器(StyleGAN)
   * [srgan](https://github.com/tensorlayer/srgan) 高清图生成器(GAN)
