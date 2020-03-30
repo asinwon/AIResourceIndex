@@ -59,6 +59,8 @@
   * [中文数据集合](https://github.com/SophonPlus/ChineseNlpCorpus) (中文语料库 数据集)
 * 预训练模型
   * [TFHub](https://tfhub.dev/s?module-type=text-embedding)(文本)
+  * [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)(文本 哈工大)
+  
 
 [返回目录](#目录)
 
