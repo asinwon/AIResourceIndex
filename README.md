@@ -48,7 +48,6 @@
 * openCV
   * [learnopencv](https://github.com/spmallick/learnopencv) (opencv 图像识别)
   
-  https://github.com/spmallick/learnopencv
 [返回目录](#目录)
 
 ## 自然语言处理
