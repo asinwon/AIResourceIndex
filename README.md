@@ -45,7 +45,10 @@
 * 预训练模型
   * [TFHub](https://tfhub.dev/s?module-type=image-augmentation,image-classification,image-feature-vector,image-generator,image-object-detection,image-others,image-style-transfer,image-rnn-agent)(图像)
   * [TFHub](https://tfhub.dev/s?module-type=video-classification,video-generator)(视频)
+* openCV
+  * [learnopencv](https://github.com/spmallick/learnopencv) (opencv 图像识别)
   
+  https://github.com/spmallick/learnopencv
 [返回目录](#目录)
 
 ## 自然语言处理
