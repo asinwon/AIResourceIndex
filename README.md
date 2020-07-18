@@ -32,7 +32,7 @@
 * [MediaPipe](https://github.com/google/mediapipe)Google开源的多媒体机器学习模型应用框架。(Google 手部跟踪 人脸检测 3D)
 * OCR
   * [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) 超轻量级中文ocr (ocr) http://121.199.63.172/ocr
-  * # [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) (OCR识别 百度飞浆)
+  * ### [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) (OCR识别 百度飞浆)
 * 对抗网络GAN
   * [人脸属性编辑器](https://github.com/a312863063/seeprettyface-face_editor)基于StyleGAN的人脸属性编辑器(StyleGAN)
   * [srgan](https://github.com/tensorlayer/srgan) 高清图生成器(GAN)
@@ -41,7 +41,7 @@
   * [face_recognition](https://github.com/ageitgey/face_recognition) (人脸识别 人脸检测)
   * [Face-Anti-spoofing](https://github.com/zeusees/Zeusee-Face-Anti-spoofing) (人脸识别 活体检测)
   * [Android App](https://www.cnblogs.com/hifun/p/11558754.html)(人脸识别 活体检测)
-  * # [Silent-Face-Anti-Spoofing-APK](https://github.com/minivision-ai/Silent-Face-Anti-Spoofing)(人脸识别 静默活体检测)
+  * ### [Silent-Face-Anti-Spoofing-APK](https://github.com/minivision-ai/Silent-Face-Anti-Spoofing)(人脸识别 静默活体检测)
 * 车牌识别
   * [HyperLPR](https://github.com/zeusees/HyperLPR) (车牌识别)
 * 预训练模型
