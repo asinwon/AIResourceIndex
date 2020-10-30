@@ -32,8 +32,11 @@
 * [MediaPipe](https://github.com/google/mediapipe)Google开源的多媒体机器学习模型应用框架。(Google 手部跟踪 人脸检测 3D)
 * OCR
   * [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) 超轻量级中文ocr (ocr) http://121.199.63.172/ocr
-  * ### [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) (OCR识别 百度飞浆)
+  
 * [PaddlePaddle](https://github.com/PaddlePaddle) (百度飞浆)
+  * ### [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) (OCR识别)
+  * ### [飞桨应用案例](http://mp.weixin.qq.com/mp/homepage?__biz=Mzg2OTEzODA5MA==&hid=5&sn=9db4deb86a801ac1241e37b47c7624d5&scene=18#wechat_redirect) (工业 农业 教育 生活)
+  * ### 车辆检测和车道线分割 AI无人售货柜 中药材识别 吸烟识别 菜品图像识别 颜值打分 智能眼镜视觉辅助系统
 * 对抗网络GAN
   * [人脸属性编辑器](https://github.com/a312863063/seeprettyface-face_editor)基于StyleGAN的人脸属性编辑器(StyleGAN)
   * [srgan](https://github.com/tensorlayer/srgan) 高清图生成器(GAN)
