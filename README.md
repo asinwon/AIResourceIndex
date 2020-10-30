@@ -33,6 +33,7 @@
 * OCR
   * [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) 超轻量级中文ocr (ocr) http://121.199.63.172/ocr
   * ### [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) (OCR识别 百度飞浆)
+* [PaddlePaddle](https://github.com/PaddlePaddle) (百度飞浆)
 * 对抗网络GAN
   * [人脸属性编辑器](https://github.com/a312863063/seeprettyface-face_editor)基于StyleGAN的人脸属性编辑器(StyleGAN)
   * [srgan](https://github.com/tensorlayer/srgan) 高清图生成器(GAN)
