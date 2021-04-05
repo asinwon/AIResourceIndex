@@ -42,6 +42,8 @@
   * [srgan](https://github.com/tensorlayer/srgan) 高清图生成器(GAN)
 * [imagededup](https://idealo.github.io/imagededup/) 图像去重查找相似(相似图片 以图搜图)
 * 人脸识别
+  * [CompreFace：开源人脸识别系统](https://github.com/exadel-inc/CompreFace) (人脸识别 人脸检测 API) 
+  * [InsightFace人脸识别REST API](https://github.com/SthPhoenix/InsightFace-REST) (人脸识别 人脸检测 API) 
   * [face_recognition](https://github.com/ageitgey/face_recognition) (人脸识别 人脸检测)
   * [Face-Anti-spoofing](https://github.com/zeusees/Zeusee-Face-Anti-spoofing) (人脸识别 活体检测)
   * [Android App](https://www.cnblogs.com/hifun/p/11558754.html)(人脸识别 活体检测)
